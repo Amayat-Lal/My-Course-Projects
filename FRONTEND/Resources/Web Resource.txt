@@ -1,0 +1,21 @@
+Resources
+
+MDN (https://developer.mozilla.org/) - Resource for Developers by Developers.
+
+W3school (https://www.w3schools.com/) - W3Schools is a free online platform that offers tutorials, references, and other resources for learning web development.
+
+Docs Emmet (https://docs.emmet.io/) - is a website with information and demos about Emmet, a toolkit for web developers that helps them quickly code HTML and CSS.
+
+CSS Font Stack (https://www.cssfontstack.com/) - Web-safe CSS font stacks and web fonts. Select, preview, and generate CSS and HTML for your font family.
+
+Coolors (https://coolors.co/) - Coolors is an essential tool for creating and collecting color palettes. It allows you to generate perfect matching colors in seconds. Even if you are not so skilled in design!
+
+Specificity Calculator (https://specificity.keegan.st/) - Specificity is the algorithm used by browsers to determine the CSS declaration that is the most relevant to an element, which in turn, determines the property value to apply to the element.
+
+Easing (Easings.net) -  has put up a gallery containing 40 different animation effects that stretch the boundaries of standard easings.
+
+Bootstrap (https://getbootstrap.com/) - Bootstrap is a free, open-source front-end development framework for the creation of websites and web apps.
+
+Font Awesome (https://fontawesome.com/) - Font Awesome is a free, scalable vector icon set that can be used to add icons to websites.
+
+

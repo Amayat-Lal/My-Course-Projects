@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Demo</title>
+</head>
+
+<body>
+
+    <h1>Form Demo</h1>
+
+    <form action="SEO">
+
+        <p>
+            <label for="username">Enter a username:</label>
+            <input id="username" type="text" placeholder="Username" name="username">
+            <br>
+            <label for="password">Enter a password:</label>
+            <input id="password" type="Password" placeholder="Password" name="password">
+        </p>
+
+        <br>
+
+        <P>
+            <label for="color">Choose a color:</label>
+            <input id="color" type="color" name="color">
+            <br>
+            <label for="number">Enter a Number:</label>
+            <input id="Number" type="number" placeholder="Enter a Number" name="number">
+        </P>
+
+        <button>Submit</button>
+        <h1>Google Search</h1>
+
+    </form>
+
+    <form action="https://www.google.com/search">
+        <input type="text" name="q">
+        <button>Google Search</button>
+
+    </form>
+
+    <h2>More Input</h2>
+
+    <form action="Marketing">
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">I agree to Everything</label>
+        <br>
+
+        <p>
+            <label for="s">S:</label>
+            <input type="radio" name="Size" id="s" value="28">
+            <label for="m">M:</label>
+            <input type="radio" name="Size" id="m" value="30">
+            <label for="l">L:</label>
+            <input type="radio" name="Size" id="l" value="32 ">
+        </p>
+
+        <p>
+            <label for="SEO">Please select a service</label>
+            <select name="SEO" id="SEO">
+                <option value="ppc">PPC</option>
+                <option value="sem">SEM</option>
+                <option value="smm">SMM</option>
+            </select>
+        </p>
+
+        <p>
+            <label for="Digital">Amount of Service</label>
+            <input type="range" id="Digital" min="0" max="1000" name="Service_Amount">
+        </p>
+
+        <p>
+            <label for="request">Any Special Request?</label>
+            <br>
+            <textarea name="Request?" id="request" cols="100" rows="10" placeholder="Type here"></textarea>
+
+        </p>
+
+        <p>
+            <button>Submit</button>
+        </p>
+
+
+
+    </form>
+
+    <h2>Validation Demo</h2>
+    <form action="/dummy">
+        <label for="first">Enter First Name</label>
+        <input type="text" name="first" id="first" minlength="5" maxlength="15" required>
+        <br>
+        <label for="last">Enter Last Name</label>
+        <input type="text" name="last" id="last" minlength="5" maxlength="15" required>
+        <br>
+        <button>Submit</button>
+    </form>
+
+
+</body>
+
+</html>

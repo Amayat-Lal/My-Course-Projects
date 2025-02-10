@@ -1,0 +1,31 @@
+body {
+    background-color: #6296e2;
+}
+
+#calendar {
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    justify-content: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #370485;
+    border: 0px solid #c17575;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    align-items: center;
+}
+
+#date {
+    font-size: 24px;
+    font-weight: bold;
+    color: #ffffff;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#time {
+    font-size: 28px;
+    color: #f5f5f5;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}

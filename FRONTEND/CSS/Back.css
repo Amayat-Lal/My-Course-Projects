@@ -1,0 +1,13 @@
+section {
+    width: 80%;
+    height: 800px;
+    background-image: url("https://img.freepik.com/free-photo/fantasy-anime-style-scene_23-2151135106.jpg?t=st=1715340777~exp=1715344377~hmac=f092839484edcad08daab60dfb3a2efc3c05e6ed78a8422b1676b9381a699397&w=900");
+    background-size: cover;
+    background-position: top;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}

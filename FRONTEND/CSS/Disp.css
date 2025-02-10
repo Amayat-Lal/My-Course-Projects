@@ -1,0 +1,22 @@
+h1 {
+    background-color: palegreen;
+    border: 1px solid black;
+    /*display: inline;*/
+}
+
+span {
+    background-color: palegoldenrod;
+    border: 1px solid black;
+    /*Margin is respected Horizontaly*/
+    margin: 50px;
+
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 5px solid black;
+    display: inline-block;
+    margin: 10px;
+}

@@ -1,0 +1,47 @@
+body {
+    color: purple;
+    margin: 0%;
+}
+
+h1 {
+    color: blue;
+    width: 200px;
+    padding-left: 100px;
+    background-color: pink;
+    margin: 10px;
+}
+
+#one {
+    background-color: pink;
+    width: 500px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
+
+#two {
+    background-color: aqua;
+    width: 500px;
+    border-width: 5px;
+    border-color: red;
+    border-style: dashed;
+    box-sizing: border-box;
+    border-left-width: 5px;
+    margin-bottom: 10px;
+}
+
+#three {
+    background-color: rgb(151, 90, 209);
+    width: 500px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 1px 50px;
+    margin-left: 10px;
+}
